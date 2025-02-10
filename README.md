@@ -15,17 +15,6 @@ This is a backend Loan API for a bank that allows employees to create, list, and
 - Maven 3.x
 - H2 Database (in-memory)
 
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/test-repo/loan-api.git
-   cd loan-api
-2. Build the Docker Image
-   ```bash
-   docker-compose build
-   docker-compose up
-
 ## Usage
 for usage of code please check unit and integration  tests
 under the
